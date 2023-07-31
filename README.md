@@ -19,5 +19,6 @@ This part is done on **Data Preparation and EDA** notebook and a clean dataset i
 
 ### Deployment
 * Streamlit app on hugging face
+
 [Model on hugging face](https://huggingface.co/spaces/MehrabK/RecommenderSystem)
 
