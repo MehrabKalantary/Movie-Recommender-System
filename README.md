@@ -26,3 +26,8 @@ At the end we sort the scores and show top 5 movies.
 ######
 [Model on hugging face](https://huggingface.co/spaces/MehrabK/RecommenderSystem)
 
+---
+
+### Sample
+![s](sample/sample.jpg)
+
